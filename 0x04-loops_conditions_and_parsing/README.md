@@ -1,1 +1,1 @@
-to be updated
+# Solution to tasks on Loops, conditions and parsing
